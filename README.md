@@ -1,5 +1,7 @@
 # Concept Based Learning on Data Warehousing
 
+TIME SERIES ANALYSIS USING R-TOOL
+
 Now a day’s people are turning up to airways to get their works done faster prior to the remaining ways this is due to wide variety of reasons such as time, comfort, offers given by the airlines. We are going to predict the air fare in 4th quarter of 2014.  
 We have a data set of 2012, 2013, and 2014. Each year consist of 4 quarter’s. Each quarter consist of 14 attributes and 1000 observations. In the data set 2 are nominal variables and 12 are numeric variables
 
